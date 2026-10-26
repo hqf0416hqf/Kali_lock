@@ -1,0 +1,4 @@
+<resources>
+    <string name="settings_shortcut">助手设置</string>
+    <string name="service_description">只在你主动发起的一次任务中识别天猫校园的指定按钮。默认演练不点击开锁；一次开锁需先演练并由你启用。无联网权限，不保存页面文字、账号或门禁信息。不使用坐标点击，不自动重试。</string>
+</resources>

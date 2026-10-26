@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_button" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical"
+    android:gravity="center" android:padding="8dp" android:background="@drawable/widget_background"
+    android:contentDescription="宿舍开门助手，按已设置模式执行一次">
+    <ImageView android:layout_width="32dp" android:layout_height="32dp"
+        android:src="@drawable/ic_door" android:importantForAccessibility="no" />
+    <TextView android:id="@+id/widget_label" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:text="开门演练" android:textSize="14sp"
+        android:textColor="#FFFFFF" />
+</LinearLayout>
